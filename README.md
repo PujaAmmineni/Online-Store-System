@@ -126,4 +126,4 @@ This project implements an **Online Shopping Platform** with functionalities for
 ---
 
 ## **Contributors**
-- **Puja Ammineni*
+- **Puja Ammineni**
